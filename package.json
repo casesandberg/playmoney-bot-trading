@@ -1,5 +1,5 @@
 {
-  "name": "playmoney-bot-manifold-mirror",
+  "name": "playmoney-bot-trading",
   "version": "1.0.0",
   "scripts": {
     "dev": "next dev --turbopack",
@@ -7,11 +7,6 @@
     "start": "next start"
   },
   "dependencies": {
-    "@tiptap/extension-image": "^2.10.4",
-    "@tiptap/extension-link": "^2.10.4",
-    "@tiptap/extension-mention": "^2.10.4",
-    "@tiptap/html": "^2.10.4",
-    "@tiptap/starter-kit": "^2.10.4",
     "next": "latest"
   },
   "devDependencies": {
